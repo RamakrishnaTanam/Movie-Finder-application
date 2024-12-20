@@ -1,8 +1,42 @@
-# React + Vite
+**MovieFinder App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web application allows users to search for movies, view movie details, and explore popular titles.
 
-Currently, two official plugins are available:
+**Features**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Search for movies by title
+Display movie information like release year, plot, and ratings
+Responsive UI for mobile and desktop views
+Fetch data from a movie API
+Installation
+
+
+**Clone the repository:**
+
+git clone https://github.com/RamakrishnaTanam/MovieFinder-App.git
+Install dependencies:
+
+
+cd MovieFinder-App
+npm install
+Run the application:
+
+
+npm start
+Open http://localhost:3000 in your browser.
+
+**Technologies Used**
+
+React
+JavaScript
+CSS
+Movie API (e.g., OMDB API)
+
+
+**Contributing**
+
+Fork the repository
+Create your feature branch (git checkout -b feature/your-feature)
+Commit your changes (git commit -am 'Add new feature')
+Push to the branch (git push origin feature/your-feature)
+Create a new Pull Request
